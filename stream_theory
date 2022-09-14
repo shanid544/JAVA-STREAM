@@ -1,1 +1,15 @@
+Collection - > stream (to process individual items of collction)
+collection - stream - condition/process/map - collection/something else
+collection - stream - filter - 
+collection - stream - map - 
+stream has fuctions like - collect(), sorted(), count(), distinct(), foreach(),mun(),max(), etc....
+Flatmap - list(list) iteration
+non terminal method - filter,map,distinct,limit,flatmap
+terminal method - collect,count,min,max,foreach,toArry,reduce
+other methods - anyMatch,allmatch,noneMatch and findAny,findFirst,
+stream concat
+parellel stream
+
+
+
 
